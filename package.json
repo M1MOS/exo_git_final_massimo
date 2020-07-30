@@ -1,0 +1,23 @@
+{
+  "name": "exo_git_final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1MOS/exo_git_final_massimo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M1MOS/exo_git_final_massimo/issues"
+  },
+  "homepage": "https://github.com/M1MOS/exo_git_final_massimo#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  }
+}
